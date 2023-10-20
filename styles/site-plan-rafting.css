@@ -38,8 +38,8 @@ body {
   font-family: Raleway, Arial, sans-serif;
   font-size: 22px;
   padding: 0;
-  /* text-align: center; */
 }
+
 img {
   /* display: block;
   margin: 0 auto;
@@ -231,10 +231,7 @@ nav a padding: 35px;
 .msg p {
   padding: 25px 50px;}
   
-footer {
-  padding: 25px 50px;
-  background-color: #6f7364;
-}
+
 footer .social img padding-top: 15px;
 }
 
@@ -266,6 +263,34 @@ border-radius: 5px;
 }
 main section img {
   box-sizing: border-box;
+}
+
+footer {
+  background-color: #6f7364;
+  /* padding: 25px 50px; */
+}
+
+.msg {
+  background-color: #6f7364;
+  text-align: center;
+  padding: 25px;
+  font
+}
+
+.msg p {
+  color: #fcfbfb;
+}
+
+.msg h2 {
+  color: #fcfbfb;
+  font size: 12em;
+}
+
+footer p {
+  color: #d9c2a3;
+}
+footer p a {
+  color: #d9c2a3;
 }
 
 /* nav a 
