@@ -319,9 +319,9 @@ footer p a {
   display: none;
 }
 
-#hero-msg h1 {
+/* #hero-msg h1 {
   text: center;
-}
+} */
 #hero-msg {
   grid-column: 2/3;
   grid-row: 1/2;
