@@ -30,10 +30,10 @@ Fonts are separated by a & */
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
+
 body {
   max-width: 956px;
   margin: 20px auto;
-  
   background-color: #fcfbfb;
   font-family: Raleway, Arial, sans-serif;
   font-size: 22px;
@@ -68,6 +68,14 @@ header {
   grid-template-columns: 150px auto;
 
 }
+
+h4 {
+  text-align: center;
+  font-size: 1em;
+}
+
+
+
 header > h1, header > h2 {
   color: var(--headline-color-on-color);
 }
